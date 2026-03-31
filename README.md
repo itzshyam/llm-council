@@ -30,7 +30,7 @@ No server, no backend, no build step. Single HTML file.
 3. Enter your [Anthropic API key](https://console.anthropic.com/) — it saves to `localStorage` and persists across sessions
 4. Ask the council anything
 
-**Or use the hosted version:** `https://yourusername.github.io/llm-council`
+**Or use the hosted version:** `https://itzshyam.github.io/llm-council/`
 
 ---
 
